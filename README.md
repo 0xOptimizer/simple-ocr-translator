@@ -13,7 +13,7 @@ Clone the repository:
     git clone https://github.com/0xOptimizer/simple-ocr-translate.git
     ```
 
-Open `index.html` in your web browser.
+Open `translate.html` in your web browser.
 
 ## Features
 
